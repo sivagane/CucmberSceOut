@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="3" time="61.158566">
+<testcase classname="To Check the login functionality of Google Application" name="Title of your scenario outline" time="22.326972">
+<system-out><![CDATA[Given User enters the Login page............................................passed
+Then User Clicks on create account and selecet myself.......................passed
+Then User enters the "siva" , "ganesh" , "sivag918@gmail.com" , "1234" , "1234".passed
+When User clicks the next button............................................passed
+Then User Close the browser.................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="To Check the login functionality of Google Application" name="Title of your scenario outline 2" time="20.044682">
+<system-out><![CDATA[Given User enters the Login page............................................passed
+Then User Clicks on create account and selecet myself.......................passed
+Then User enters the "Hello" , "java" , "Hello@gmail.com" , "2345" , "2345".passed
+When User clicks the next button............................................passed
+Then User Close the browser.................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="To Check the login functionality of Google Application" name="Title of your scenario outline 3" time="18.786912">
+<system-out><![CDATA[Given User enters the Login page............................................passed
+Then User Clicks on create account and selecet myself.......................passed
+Then User enters the "Java" , "selenium" , "Java@gmail.com" , "3456" , "3456".passed
+When User clicks the next button............................................passed
+Then User Close the browser.................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
